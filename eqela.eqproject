@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# activity again
+#
+
+projectname: activity again
+vendorid: com.mycompany
+mainmodule: com.mycompany.activityagain
